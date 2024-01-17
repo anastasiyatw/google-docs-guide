@@ -1,5 +1,7 @@
 site_name: Google Docs guide
-
+site_url: http://127.0.0.1:8000/
+repo_url: https://github.com/anastasiyatw/google-docs-guide
+repo_name: GitHub
 
 nav:
   - Functions of Google Docs:
